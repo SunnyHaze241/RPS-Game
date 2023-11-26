@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Rock Paper Scissors Game</title>
+  </head>
+  <body>
+    <header>
+      <h1>Rock Paper Scissors</h1>
+    </header>
+    
+    <div class="score-board">
+      <div id="user-label" class="badge">user</div>
+      <div id="computer-label" class="badge">comp</div>
+      <span id="user-score">0</span>:<span id="computer-score">0</span>
+    </div>
+    
+    <div class="result">
+      <p>Paper covers rock. You win!</p>
+    </div>
+    
+    <div class="choices">
+      <div class="choice">
+      <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8a31347e-268d-4401-95c4-3e8f58640b7b%2F55fa393f-0bfd-49ff-b46d-7dd31b960b85%2F5B11C894-5249-4894-8DF0-E27233C60D75.png?table=block&id=b791b813-ee6e-4b4d-bfb3-a0ddec17b35a&spaceId=8a31347e-268d-4401-95c4-3e8f58640b7b&width=2000&userId=9e742fe8-8e69-4fa2-a4b5-6ae555d7e82d&cache=v2" alt="rock"
+   
+             
